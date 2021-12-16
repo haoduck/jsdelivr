@@ -1431,7 +1431,7 @@ var CodeMirror = {};
     <!-- files -->
     <!--<script src="<?php echo config::$assets ?>js/files.js"></script> -->
     <!--<script src="js/files.js"></script> -->
-    <script src="https://cdn.jsdelivr.net/gh/peng4740/jsdelivr/photo.gallery/js/files.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/haoduck/jsdelivr/photo.gallery/js/files.js"></script>
 
   </body>
 </html>
